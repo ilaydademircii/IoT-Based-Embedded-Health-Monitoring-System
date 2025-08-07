@@ -4,7 +4,10 @@
 
 This final year thesis project integrates an IoT-based embedded health monitoring system with a mobile application for comprehensive real-time health tracking and emergency management. The system collects vital biometric data and allows remote monitoring via a user-friendly mobile app, designed especially for elderly users.
 
-![Mobile Application Interface](interface.png)
+<p align="center">
+  <img src="interface.png" width="300"><br>
+  <em>Mobile Application Interface</em>
+</p>
 
 
 ## Hardware Components
