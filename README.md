@@ -58,6 +58,3 @@ This final year thesis project integrates an IoT-based embedded health monitorin
 2. Configure Wi-Fi and Firebase credentials in the source code.
 3. Upload the firmware to the NodeMCU.
 4. Launch the mobile application via Expo Go to monitor live health data and receive alerts.
-
-
-İstersen bu README’yi sana Markdown dosyası olarak da hazırlayabilirim, ya da dilersen direkt GitHub’a kopyalayabilirsin. Başka eklemek istediğin bir şey var mı?
