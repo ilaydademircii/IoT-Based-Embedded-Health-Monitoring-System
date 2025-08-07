@@ -4,6 +4,9 @@
 
 This final year thesis project integrates an IoT-based embedded health monitoring system with a mobile application for comprehensive real-time health tracking and emergency management. The system collects vital biometric data and allows remote monitoring via a user-friendly mobile app, designed especially for elderly users.
 
+![Mobile Application Interface](interface.png)
+
+
 ## Hardware Components
 
 * **NodeMCU ESP8266:** 32-bit microcontroller with built-in Wi-Fi support
