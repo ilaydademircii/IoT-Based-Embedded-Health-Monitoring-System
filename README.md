@@ -18,6 +18,11 @@ This final year thesis project integrates an IoT-based embedded health monitorin
 * **GYNEOMV2:** GPS sensor for location tracking
 * **MPU6050:** Accelerometer sensor for motion and fall detection
 
+  <p align="center">
+  <img src="Hardware.png" width="300"><br>
+  <em>Hardware Connections</em>
+</p>
+
 ### Sensor Connections
 
 * **I2C (D1, D2 pins):** MAX30102, GY-906, MPU6050
