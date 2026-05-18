@@ -289,9 +289,9 @@ const char *ssid = "emir";
 const char *password = "12345678a";
 
 // Firebase bağlantı bilgileri
-#define API_KEY "AIzaSyDcNHjkdZf1o3pMVkk3kxdIE9aIGxkRFYw"
+#define API_KEY "**********************"
 
-#define DATABASE_URL "proje1-f9077-default-rtdb.europe-west1.firebasedatabase.app"
+#define DATABASE_URL "*****************************"
 
 // Firebase değişkenleri
 FirebaseData fbdo;
